@@ -1,4 +1,4 @@
-#command=docker pull rer8/weather:latest
+# command=docker pull rer8/weather:latest
 
 import os
 import requests
